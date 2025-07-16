@@ -1,6 +1,6 @@
 {
-    "name": "demo_1",
-    "short_name": "demo_1",
+    "name": "tpa_cms",
+    "short_name": "tpa_cms",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
